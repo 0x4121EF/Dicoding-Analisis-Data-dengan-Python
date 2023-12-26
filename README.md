@@ -1,11 +1,12 @@
 "# Dicoding-Analisis-Data-dengan-Python" 
 
-Datasets File and python
-
-Setup environment
+Python Requirements :
 
 pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 
-Running steamlit app
+Running Streamlit in local environment:
 
 streamlit run main.py
+
+live data :
+https://d5osvpttfenpi7z8yvsmfa.streamlit.app/
